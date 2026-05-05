@@ -1,0 +1,10 @@
+Research Statement
+
+My research integrates nonlinear partial differential equations, mathematical modeling, and machine learning. I am particularly interested in numerical stability, long-time dynamics of PDEs, and the development of computational tools for data-driven scientific problems.
+
+Recent work includes:
+- Stability analysis for nonlinear Schrödinger and Klein-Gordon models.
+- Numerical studies of soliton interactions and higher-order dispersion phenomena.
+- Machine learning projects in image recognition, anomaly detection, and predictive analytics.
+
+For the Visiting Faculty role, I plan to pursue projects that connect data science with mathematical theory, support student research, and collaborate with engineering and computational science colleagues.

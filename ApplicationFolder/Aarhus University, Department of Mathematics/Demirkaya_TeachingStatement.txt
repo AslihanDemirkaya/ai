@@ -1,0 +1,10 @@
+Teaching Statement
+
+I teach with a student-centered approach that emphasizes conceptual understanding, problem solving, and real-world applications. My experience includes teaching calculus, ordinary differential equations, linear algebra, introductory analysis, and advanced engineering mathematics at both undergraduate and graduate levels.
+
+I support students by:
+- Creating clear lecture notes and examples that connect theory to applications.
+- Using active learning strategies in class and structured problem-solving sessions.
+- Mentoring undergraduate research projects in nonlinear dynamics, numerical simulation, and mathematical modeling.
+
+I am committed to inclusive teaching and enjoy supervising diverse students in mathematics and data science-related coursework.

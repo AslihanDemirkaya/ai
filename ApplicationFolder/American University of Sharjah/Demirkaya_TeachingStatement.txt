@@ -1,0 +1,10 @@
+Teaching Statement
+
+I focus on active, concept-driven teaching that supports students in understanding mathematical fundamentals and building confidence in problem solving. My teaching experience includes courses such as Calculus, Differential Equations, Linear Algebra, and Introductory Analysis.
+
+My teaching approach includes:
+- Designing examples that connect mathematics to data science and engineering applications.
+- Encouraging collaborative problem solving and critical thinking.
+- Providing mentorship for undergraduate research and project-based learning.
+
+I aim to create a welcoming classroom environment where students from diverse backgrounds can succeed in mathematics and data science.

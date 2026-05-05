@@ -1,0 +1,5 @@
+Research Statement
+
+My research focuses on nonlinear partial differential equations, including stability, long-time behavior, and numerical methods for wave phenomena. I have worked on Klein-Gordon models, nonlinear Schrödinger equations, and higher-order dispersion effects.
+
+Publications include studies on kink-antikink interactions, soliton stability, and PT-symmetric field theories. Future work will explore data-driven approaches to PDE modeling and interdisciplinary applications.

@@ -1,0 +1,10 @@
+Research Statement
+
+My research combines nonlinear partial differential equations, applied mathematics, and computational modeling. I have published work on the long-time behavior of PDE solutions, stability of solitons, and numerical methods for nonlinear waves.
+
+Highlights of my research include:
+- Analysis of nonlinear Schrödinger and Klein-Gordon type models.
+- Numerical studies of stability, bifurcations, and long-range interactions in nonlinear field theories.
+- Data science applications in classification, anomaly detection, and regression.
+
+At the American University of Armenia, I would pursue research that integrates applied mathematics with computational and data-driven methods, and engage students in projects that connect theory with modeling and simulation.

@@ -1,0 +1,8 @@
+Teaching Statement
+
+I teach with a focus on conceptual understanding and practical applications. My courses include calculus, differential equations, and statistics, where I use real-world examples and active learning.
+
+I support diverse learners by:
+- Designing inclusive curricula with computational tools.
+- Mentoring students in research and problem-solving.
+- Promoting interdisciplinary connections between math and data science.

@@ -1,0 +1,10 @@
+Dear Search Committee Members,
+
+I am writing to apply for the Visiting Faculty Position in Data Science at the American University of Sharjah. My background spans applied mathematics, machine learning, and data science, anchored by a strong teaching record in undergraduate and graduate mathematics courses.
+
+I hold a Ph.D. in Mathematics from the University of Kansas and a Data Science Certificate from UC Berkeley Extension. I currently work as a Research Scientist at Vianai Systems Inc. and have experience teaching calculus, ordinary differential equations, and applied mathematics. My research includes nonlinear PDEs, machine learning applications, and data-driven modeling.
+
+I am motivated to contribute to AUS by teaching data science and mathematics courses, advising students on research projects, and developing interdisciplinary collaborations across computing and engineering programs. I look forward to supporting the university’s academic mission with innovative teaching and applied research.
+
+Sincerely,
+Aslihan Demirkaya

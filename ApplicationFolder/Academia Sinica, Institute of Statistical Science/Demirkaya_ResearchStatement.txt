@@ -1,0 +1,10 @@
+Research Statement
+
+My research integrates applied mathematics, nonlinear PDEs, and data science. I have developed methods for analyzing complex systems, including stability of nonlinear waves and machine learning applications in classification and prediction.
+
+Key areas:
+- Nonlinear PDE stability and long-time behavior.
+- Data science projects: fraud detection, image classification, regression modeling.
+- Statistical modeling for scientific data.
+
+At Academia Sinica, I would pursue research in applied statistics, collaborating on interdisciplinary projects and mentoring students in quantitative methods.

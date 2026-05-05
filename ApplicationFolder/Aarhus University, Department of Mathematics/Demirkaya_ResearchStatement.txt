@@ -1,0 +1,13 @@
+Research Statement
+
+My research lies at the intersection of nonlinear partial differential equations, mathematical modeling, and data-driven methods. I have worked extensively on the stability and long-time behavior of solutions for nonlinear wave equations, including Klein-Gordon and Kuramoto-Sivashinsky models. I also pursue research in machine learning and deep learning, developing computational methods that help bridge mathematical theory with practical applications.
+
+Key contributions:
+- Analysis of kink-antikink interactions and soliton stability in nonlinear field theories.
+- Numerical and analytical studies of higher-order dispersion and stability for solitary waves.
+- Data science applications in image recognition, fraud detection, and predictive modeling using machine learning methods.
+
+Future research directions include:
+- Developing statistical and machine learning frameworks for analyzing complex nonlinear systems.
+- Building interdisciplinary collaborations with applied sciences and engineering groups.
+- Supervising graduate research that integrates mathematical theory, computation, and real-world data applications.

@@ -1,0 +1,12 @@
+Dear Search Committee Members,
+
+I am writing to apply for the Professor in Applied Statistics position at Aarhus University. My academic career combines deep expertise in applied mathematics, nonlinear partial differential equations, and data science, together with extensive teaching and student supervision experience. I currently serve as a Research Scientist at Vianai Systems Inc. and as a Visiting Scholar in Mathematics at the University of Hartford.
+
+My research portfolio includes interdisciplinary work on nonlinear wave phenomena, stability analysis, and the application of machine learning and deep learning techniques to scientific problems. I have developed and led projects in data science, including fraud detection, image classification, and predictive modeling, and I hold a Data Science Certificate from UC Berkeley Extension.
+
+I am particularly excited by Aarhus University’s commitment to building an applied statistics group with strong methodological and collaborative impact. I would bring a research agenda focused on statistical models for complex systems, machine learning for scientific data, and the development of data-driven methods that connect theory and applications. I also have a strong record of teaching and mentoring students in courses ranging from calculus and differential equations to advanced applied mathematics.
+
+I would welcome the opportunity to contribute to the Stochastics Group and to the broader Department of Mathematics at Aarhus University.
+
+Sincerely,
+Aslihan Demirkaya
